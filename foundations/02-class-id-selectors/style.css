@@ -1,4 +1,20 @@
-.p {
-    background-color: rgb(rgb(235, 143, 143), green, blue);
+.class,
+.cooler {
+    background-color: rgb(240, 120, 120);
+    font-family: "Verdana","DejaVu Sans",sans-serif;
+}
 
+#one {
+    color: blue;
+    font-size: 36px;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#another {
+    background-color: rgb(127, 218, 127);
+    font-size: 24px;
+    font-weight: bold;
 }
